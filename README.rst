@@ -44,5 +44,5 @@ Example Usage
 
 - Now you can see the action drop-down in admin with the publish and un-publish options default.
 
-.. image:: https://github.com/Sanooppk1/django-admin-extra-actions/blob/master/screehshots/screenshotforextraoption.png
+.. image:: https://github.com/sayonetech/django-admin-extra-actions/blob/master/screehshots/screenshotforextraoption.png
 
